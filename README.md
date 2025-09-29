@@ -1,14 +1,10 @@
-Belu Andreea-Daniela, 333CB
-
-*** README ***
-
 1. Used structures:
     - map_data: consists of data shared between all the map threads 
     - map_thread: consists of data specific only to a map thread
     - reduce_data: consists of data shared between all the reduce threads
     - reduce_thread: consists of data specific only to a reduce thread
 
-2. Functions:
+3. Functions:
     - main():
         parse the input: number of map threads, reduce threads, as well as the file containing the files to process
         extract the files to be processed, and store them in a vector
