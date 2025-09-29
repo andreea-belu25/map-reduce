@@ -1,9 +1,9 @@
 Used structures:
 ---
-    - map_data: consists of data shared between all the map threads 
-    - map_thread: consists of data specific only to a map thread
-    - reduce_data: consists of data shared between all the reduce threads
-    - reduce_thread: consists of data specific only to a reduce thread
+- map_data: consists of data shared between all the map threads 
+- map_thread: consists of data specific only to a map thread
+- reduce_data: consists of data shared between all the reduce threads
+- reduce_thread: consists of data specific only to a reduce thread
 
 Functions:
 ---
