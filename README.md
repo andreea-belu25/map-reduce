@@ -5,6 +5,7 @@
     - reduce_data: consists of data shared between all the reduce threads
     - reduce_thread: consists of data specific only to a reduce thread
 
+
 2. Functions:
 
     - main():
